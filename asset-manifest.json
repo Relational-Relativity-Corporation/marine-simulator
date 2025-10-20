@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marine-simulator/static/css/main.86e80244.css",
+    "main.js": "/marine-simulator/static/js/main.cfa99e98.js",
+    "index.html": "/marine-simulator/index.html",
+    "main.86e80244.css.map": "/marine-simulator/static/css/main.86e80244.css.map",
+    "main.cfa99e98.js.map": "/marine-simulator/static/js/main.cfa99e98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e80244.css",
+    "static/js/main.cfa99e98.js"
+  ]
+}
