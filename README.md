@@ -13,7 +13,7 @@ An advanced interactive simulation platform for underwater testing and data coll
 
 ## Live Demo
 
-[View Live Simulation](https://YOUR_GITHUB_USERNAME.github.io/marine-simulator)
+[View Live Simulation](https://relational-relativity-corporation.github.io/marine-simulator)
 
 ## Installation
 
