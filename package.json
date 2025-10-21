@@ -1,14 +1,14 @@
-﻿{
+{
   "name": "marine-environment-simulator",
   "version": "1.0.0",
   "description": "Advanced marine environment testing and data simulation platform",
   "private": true,
   "dependencies": {
+    "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "recharts": "^2.10.0",
-    "lucide-react": "^0.263.1"
+    "recharts": "^2.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -18,14 +18,25 @@
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
-    "extends": ["react-app"]
+    "extends": [
+      "react-app"
+    ]
   },
   "browserslist": {
-    "production": [">0.2%", "not dead", "not op_mini all"],
-    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.0.0",
+    "tailwindcss": "^4.1.15"
   },
   "homepage": "https://Relational-Relativity-Corporation.github.io/marine-simulator"
 }
